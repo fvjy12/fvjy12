@@ -54,6 +54,10 @@ NO SYSTEM IS SAFE
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS%2FVDS-333333?style=for-the-badge&logo=vps&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4EAA25?style=for-the-badge&logo=openssh&logoColor=white)
+![UFW](https://img.shields.io/badge/Firewall%2FUFW-FF6600?style=for-the-badge&logo=firewall&logoColor=white)
+
 
 ---
 
@@ -76,6 +80,10 @@ NO SYSTEM IS SAFE
 - 🔑 **Hashcat** — взлом паролей, подбор хэшей
 - 🖥️ **Ubuntu Server** — настройка и администрирование серверов
 - 🐳 **Docker** — контейнеризация, настройка и деплой
+- 🖧 **VPS / VDS** — аренда и настройка виртуальных серверов
+- 🔐 **SSH / OpenSSH** — удалённое управление серверами
+- 🛡️ **Firewall / UFW** — настройка файрвола и защита серверов
+
 - 🦠 **RAT / Winlocker** — разработка удалённого доступа и блокировщиков
 - 🔧 **Автоматизация** — скрипты для упрощения рутины
 - 🛠️ **Git/GitHub** — работа с репозиториями, CI/CD
