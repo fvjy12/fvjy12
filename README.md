@@ -36,6 +36,22 @@
 
 ---
 
+## 🌐 Сети и безопасность
+
+![Nmap](https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack%20ng-004088?style=for-the-badge&logo=aircrack&logoColor=white)
+
+---
+
+## 🦠 Разработка
+
+![RAT Development](https://img.shields.io/badge/RAT%20Development-000000?style=for-the-badge&logo=remote&logoColor=white)
+![Winlocker](https://img.shields.io/badge/Winlocker-8B0000?style=for-the-badge&logo=lock&logoColor=white)
+
+---
+
 ## 📊 Статистика
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fvjy12&show_icons=true&theme=radical&hide_border=true)
@@ -48,6 +64,9 @@
 
 - 🐍 **Python** — скрипты, автоматизация, инструменты
 - 🌐 **Сети и прокси** — работа с прокси, переключение, обход ограничений
+- 🔍 **Nmap / Wireshark** — сканирование сетей, анализ трафика
+- 📡 **Kali Linux / Aircrack-ng** — тестирование на проникновение, взлом WiFi
+- 🦠 **RAT / Winlocker** — разработка удалённого доступа и блокировщиков
 - 🔧 **Автоматизация** — скрипты для упрощения рутины
 - 🛠️ **Git/GitHub** — работа с репозиториями, CI/CD
 - 💻 **Linux/Windows** — работа в обеих средах
