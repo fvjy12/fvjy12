@@ -52,15 +52,8 @@
 
 ---
 
-## 📊 Статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fvjy12&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fvjy12&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 🔥 Что я умею
+
 
 - 🐍 **Python** — скрипты, автоматизация, инструменты
 - 🌐 **Сети и прокси** — работа с прокси, переключение, обход ограничений
