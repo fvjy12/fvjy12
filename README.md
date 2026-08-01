@@ -43,12 +43,18 @@
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack%20ng-004088?style=for-the-badge&logo=aircrack&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-4B0082?style=for-the-badge&logo=hashcat&logoColor=white)
+
+---
+
+## 🖥️ Серверы и DevOps
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 🦠 Разработка
+
 
 
 ![RAT Development](https://img.shields.io/badge/RAT%20Development-000000?style=for-the-badge&logo=remote&logoColor=white)
