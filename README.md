@@ -42,10 +42,14 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack%20ng-004088?style=for-the-badge&logo=aircrack&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-4B0082?style=for-the-badge&logo=hashcat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 🦠 Разработка
+
 
 ![RAT Development](https://img.shields.io/badge/RAT%20Development-000000?style=for-the-badge&logo=remote&logoColor=white)
 ![Winlocker](https://img.shields.io/badge/Winlocker-8B0000?style=for-the-badge&logo=lock&logoColor=white)
@@ -59,10 +63,14 @@
 - 🌐 **Сети и прокси** — работа с прокси, переключение, обход ограничений
 - 🔍 **Nmap / Wireshark** — сканирование сетей, анализ трафика
 - 📡 **Kali Linux / Aircrack-ng** — тестирование на проникновение, взлом WiFi
+- 🔑 **Hashcat** — взлом паролей, подбор хэшей
+- 🖥️ **Ubuntu Server** — настройка и администрирование серверов
+- 🐳 **Docker** — контейнеризация, настройка и деплой
 - 🦠 **RAT / Winlocker** — разработка удалённого доступа и блокировщиков
 - 🔧 **Автоматизация** — скрипты для упрощения рутины
 - 🛠️ **Git/GitHub** — работа с репозиториями, CI/CD
 - 💻 **Linux/Windows** — работа в обеих средах
+
 
 ---
 
