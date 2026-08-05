@@ -24,8 +24,7 @@ NO SYSTEM IS SAFE
 
 | Проект | Описание | Статус |
 |--------|----------|--------|
-| [**winlocker**](https://github.com/fvjy12/winlocker) | 🔒 **Эффектный винлокер** — блокировщик экрана с ASCII-глазом, мерцающей заставкой и максимальной защитой | 🔥 Топ |
-
+| [**amonlocker**](https://github.com/fvjy12/amonlocker) | 🔒 **Эффектный винлокер** — блокировщик экрана с ASCII-глазом, мерцающей заставкой и максимальной защитой | 🔥 Топ |
 | [**smart-notes**](https://github.com/fvjy12/smart-notes) | Умные заметки с автоматизацией | ✅ Активен |
 | [**proxy-switcher**](https://github.com/fvjy12/proxy-switcher) | Переключатель прокси | ✅ Активен |
 | [**docker-amon**](https://github.com/fvjy12/docker-amon) | Production-ready Docker setup для Python | ✅ Активен |
