@@ -24,10 +24,11 @@ NO SYSTEM IS SAFE
 
 | Проект | Описание | Статус |
 |--------|----------|--------|
-| [**winlocker**](https://github.com/fvjy12/winlocker) | 🔒 **Эффектный винлокер** для демонстрации его работы | 🔥 Топ |
+| [**winlocker**](https://github.com/fvjy12/winlocker) | 🔒 **Эффектный винлокер** для демонстрации его работы | ✅ Активен |
 | [**smart-notes**](https://github.com/fvjy12/smart-notes) | Умные заметки с автоматизацией | ✅ Активен |
 | [**proxy-switcher**](https://github.com/fvjy12/proxy-switcher) | Переключатель прокси | ✅ Активен |
 | [**docker-amon**](https://github.com/fvjy12/docker-amon) | Production-ready Docker setup для Python | ✅ Активен |
+
 
 
 
