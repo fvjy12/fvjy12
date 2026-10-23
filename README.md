@@ -24,6 +24,7 @@ NO SYSTEM IS SAFE
 
 | Проект | Описание |
 | -------- | ---------- |
+| [**reconhunter**](https://github.com/fvjy12/reconhunter) | 🎯 **Модульный пентест-сканер**: порты, баннеры, веб-разведка, TLS-аудит, субдомены + отчёты MD/HTML/JSON |
 | [**password-checker**](https://github.com/fvjy12/password-checker) | 🔐 Проверка паролей по утечкам HaveIBeenPwned (k-anonymity) + генератор паролей |
 | [**burmlda-rpg**](https://github.com/fvjy12/burmlda-rpg) | 🎮 **Консольная RPG** на чистом Python: бой на d20 и Фростморн |
 | [**winlocker**](https://github.com/fvjy12/winlocker) | 🔒 **Эффектный винлокер** для демонстрации его работы |
