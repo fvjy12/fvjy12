@@ -22,13 +22,13 @@ NO SYSTEM IS SAFE
 
 ## 🚀 Мои проекты
 
-| Проект | Описание | Статус |
-|--------|----------|--------|
-| [**burmlda-rpg**](https://github.com/fvjy12/burmlda-rpg) | 🎮 **Консольная RPG** на чистом Python: бой на d20 и Фростморн | ✅ Активен |
-| [**winlocker**](https://github.com/fvjy12/winlocker) | 🔒 **Эффектный винлокер** для демонстрации его работы | ✅ Активен |
-| [**smart-notes**](https://github.com/fvjy12/smart-notes) | Умные заметки с автоматизацией | ✅ Активен |
-| [**proxy-switcher**](https://github.com/fvjy12/proxy-switcher) | Переключатель прокси | ✅ Активен |
-| [**docker-amon**](https://github.com/fvjy12/docker-amon) | Production-ready Docker setup для Python | ✅ Активен |
+| Проект | Описание |
+| -------- | ---------- |
+| [**burmlda-rpg**](https://github.com/fvjy12/burmlda-rpg) | 🎮 **Консольная RPG** на чистом Python: бой на d20 и Фростморн |
+| [**winlocker**](https://github.com/fvjy12/winlocker) | 🔒 **Эффектный винлокер** для демонстрации его работы |
+| [**smart-notes**](https://github.com/fvjy12/smart-notes) | Умные заметки с автоматизацией |
+| [**proxy-switcher**](https://github.com/fvjy12/proxy-switcher) | Переключатель прокси |
+| [**docker-amon**](https://github.com/fvjy12/docker-amon) | Production-ready Docker setup для Python |
 
 
 
