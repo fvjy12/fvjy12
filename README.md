@@ -24,6 +24,7 @@ NO SYSTEM IS SAFE
 
 | Проект | Описание | Статус |
 |--------|----------|--------|
+| [**burmlda-rpg**](https://github.com/fvjy12/burmlda-rpg) | 🎮 **Консольная RPG** на чистом Python: бой на d20 и Фростморн | ✅ Активен |
 | [**winlocker**](https://github.com/fvjy12/winlocker) | 🔒 **Эффектный винлокер** для демонстрации его работы | ✅ Активен |
 | [**smart-notes**](https://github.com/fvjy12/smart-notes) | Умные заметки с автоматизацией | ✅ Активен |
 | [**proxy-switcher**](https://github.com/fvjy12/proxy-switcher) | Переключатель прокси | ✅ Активен |
@@ -107,3 +108,4 @@ NO SYSTEM IS SAFE
 ---
 
 > *"Security is not a product, but a process."* — Bruce Schneier
+
