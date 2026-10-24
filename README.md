@@ -24,6 +24,7 @@ NO SYSTEM IS SAFE
 
 | Проект | Описание |
 | -------- | ---------- |
+| [**phishguard**](https://github.com/fvjy12/phishguard) | 🛡️ **Анализатор фишинговых ссылок**: punycode, омоглифы, бренды, TLD + фиды URLhaus/Safe Browsing |
 | [**reconhunter**](https://github.com/fvjy12/reconhunter) | 🎯 **Модульный пентест-сканер**: порты, баннеры, веб-разведка, TLS-аудит, субдомены + отчёты MD/HTML/JSON |
 | [**password-checker**](https://github.com/fvjy12/password-checker) | 🔐 Проверка паролей по утечкам HaveIBeenPwned (k-anonymity) + генератор паролей |
 | [**burmlda-rpg**](https://github.com/fvjy12/burmlda-rpg) | 🎮 **Консольная RPG** на чистом Python: бой на d20 и Фростморн |
