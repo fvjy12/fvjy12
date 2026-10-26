@@ -11,7 +11,9 @@
 NO SYSTEM IS SAFE
 ```
 
-![Mirai Nikki](future-diary-mirai-nikki.gif)
+<p align="center">
+  <img src="future-diary-mirai-nikki.gif" alt="Mirai Nikki" width="480">
+</p>
 
 ## 🛡️ Кибербезопасник | Python Developer | Automation
 
