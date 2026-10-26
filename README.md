@@ -39,14 +39,14 @@ NO SYSTEM IS SAFE
 
 | Проект | Описание |
 | -------- | ---------- |
-| [**order-management-system**](https://github.com/fvjy12/order-management-system) | 🛒 **Система учёта заказов** на Python + Tkinter |
+| [**winlocker**](https://github.com/fvjy12/winlocker) | 🔒 **Эффектный винлокер** для демонстрации его работы |
 
 ### 🎮 Игры и демо
 
 | Проект | Описание |
 | -------- | ---------- |
 | [**burmlda-rpg**](https://github.com/fvjy12/burmlda-rpg) | 🎮 **Консольная RPG** на чистом Python: бой на d20 и Фростморн |
-| [**winlocker**](https://github.com/fvjy12/winlocker) | 🔒 **Эффектный винлокер** для демонстрации его работы |
+| [**order-management-system**](https://github.com/fvjy12/order-management-system) | 🛒 **Система учёта заказов** на Python + Tkinter |
 
 
 
