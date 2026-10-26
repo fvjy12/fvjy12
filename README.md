@@ -19,6 +19,13 @@ NO SYSTEM IS SAFE
 
 ## 🚀 Мои проекты
 
+### 🧰 Инструменты и эксперименты
+
+| Проект | Описание |
+| -------- | ---------- |
+| [**proxy-switcher**](https://github.com/fvjy12/proxy-switcher) | Переключатель прокси |
+| [**winlocker**](https://github.com/fvjy12/winlocker) | 💀 **«Ваш компьютер заблокирован!»** — учебный симулятор ransomware: эффектный экран-локер, чтобы показать, как это устроено. Только в образовательных целях |
+
 ### 🛡️ Безопасность и пентест
 
 | Проект | Описание |
@@ -26,19 +33,7 @@ NO SYSTEM IS SAFE
 | [**phishguard**](https://github.com/fvjy12/phishguard) | 🛡️ **Анализатор фишинговых ссылок**: punycode, омоглифы, бренды, TLD + фиды URLhaus/Safe Browsing |
 | [**reconhunter**](https://github.com/fvjy12/reconhunter) | 🎯 **Модульный пентест-сканер**: порты, баннеры, веб-разведка, TLS-аудит, субдомены + отчёты MD/HTML/JSON |
 | [**password-checker**](https://github.com/fvjy12/password-checker) | 🔐 Проверка паролей по утечкам HaveIBeenPwned (k-anonymity) + генератор паролей |
-
-### 🧰 Инструменты и DevOps
-
-| Проект | Описание |
-| -------- | ---------- |
-| [**proxy-switcher**](https://github.com/fvjy12/proxy-switcher) | Переключатель прокси |
 | [**docker-amon**](https://github.com/fvjy12/docker-amon) | Production-ready Docker setup для Python |
-
-### 🧪 Эксперименты
-
-| Проект | Описание |
-| -------- | ---------- |
-| [**winlocker**](https://github.com/fvjy12/winlocker) | 💀 **«Ваш компьютер заблокирован!»** — учебный симулятор ransomware: эффектный экран-локер, чтобы показать, как это устроено. Только в образовательных целях |
 
 ### 🧩 Приложения и игры
 
