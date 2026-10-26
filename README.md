@@ -15,13 +15,6 @@ NO SYSTEM IS SAFE
   <img src="future-diary-mirai-nikki.gif" alt="Mirai Nikki" width="480">
 </p>
 
-## 🛡️ Кибербезопасник | Python Developer | Automation
-
-
-
-Привет! Я **fvjy12** — занимаюсь кибербезопасностью, автоматизацией и разработкой инструментов на Python. Люблю разбираться в сетях и создавать полезные утилиты.
-
-
 ---
 
 ## 🚀 Мои проекты
@@ -74,15 +67,6 @@ NO SYSTEM IS SAFE
 ![SSH](https://img.shields.io/badge/SSH-4EAA25?style=for-the-badge&logo=openssh&logoColor=white)
 ![UFW](https://img.shields.io/badge/Firewall%2FUFW-FF6600?style=for-the-badge&logo=firewall&logoColor=white)
 
-
----
-
-## 🦠 Разработка
-
-
-
-![RAT Development](https://img.shields.io/badge/RAT%20Development-000000?style=for-the-badge&logo=remote&logoColor=white)
-![Winlocker](https://img.shields.io/badge/Winlocker-8B0000?style=for-the-badge&logo=lock&logoColor=white)
 
 ---
 
