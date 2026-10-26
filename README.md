@@ -27,26 +27,26 @@ NO SYSTEM IS SAFE
 | [**reconhunter**](https://github.com/fvjy12/reconhunter) | 🎯 **Модульный пентест-сканер**: порты, баннеры, веб-разведка, TLS-аудит, субдомены + отчёты MD/HTML/JSON |
 | [**password-checker**](https://github.com/fvjy12/password-checker) | 🔐 Проверка паролей по утечкам HaveIBeenPwned (k-anonymity) + генератор паролей |
 
-### 🧰 Утилиты и DevOps
+### 🧰 Инструменты и DevOps
 
 | Проект | Описание |
 | -------- | ---------- |
 | [**proxy-switcher**](https://github.com/fvjy12/proxy-switcher) | Переключатель прокси |
-| [**smart-notes**](https://github.com/fvjy12/smart-notes) | Умные заметки с автоматизацией |
 | [**docker-amon**](https://github.com/fvjy12/docker-amon) | Production-ready Docker setup для Python |
 
-### 🛒 Десктоп-приложения
+### 🧪 Эксперименты
 
 | Проект | Описание |
 | -------- | ---------- |
 | [**winlocker**](https://github.com/fvjy12/winlocker) | 💀 **«Ваш компьютер заблокирован!»** — учебный симулятор ransomware: эффектный экран-локер, чтобы показать, как это устроено. Только в образовательных целях |
 
-### 🎮 Игры и демо
+### 🧩 Приложения и игры
 
 | Проект | Описание |
 | -------- | ---------- |
-| [**burmlda-rpg**](https://github.com/fvjy12/burmlda-rpg) | 🎮 **Консольная RPG** на чистом Python: бой на d20 и Фростморн |
+| [**smart-notes**](https://github.com/fvjy12/smart-notes) | Умные заметки с автоматизацией |
 | [**order-management-system**](https://github.com/fvjy12/order-management-system) | 🛒 **Система учёта заказов** на Python + Tkinter |
+| [**burmlda-rpg**](https://github.com/fvjy12/burmlda-rpg) | 🎮 **Консольная RPG** на чистом Python: бой на d20 и Фростморн |
 
 
 
