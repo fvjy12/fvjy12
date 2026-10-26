@@ -19,16 +19,28 @@ NO SYSTEM IS SAFE
 
 ## 🚀 Мои проекты
 
+### 🛡️ Безопасность и пентест
+
 | Проект | Описание |
 | -------- | ---------- |
 | [**phishguard**](https://github.com/fvjy12/phishguard) | 🛡️ **Анализатор фишинговых ссылок**: punycode, омоглифы, бренды, TLD + фиды URLhaus/Safe Browsing |
 | [**reconhunter**](https://github.com/fvjy12/reconhunter) | 🎯 **Модульный пентест-сканер**: порты, баннеры, веб-разведка, TLS-аудит, субдомены + отчёты MD/HTML/JSON |
 | [**password-checker**](https://github.com/fvjy12/password-checker) | 🔐 Проверка паролей по утечкам HaveIBeenPwned (k-anonymity) + генератор паролей |
+
+### 🧰 Утилиты и DevOps
+
+| Проект | Описание |
+| -------- | ---------- |
+| [**proxy-switcher**](https://github.com/fvjy12/proxy-switcher) | Переключатель прокси |
+| [**smart-notes**](https://github.com/fvjy12/smart-notes) | Умные заметки с автоматизацией |
+| [**docker-amon**](https://github.com/fvjy12/docker-amon) | Production-ready Docker setup для Python |
+
+### 🎮 Игры и демо
+
+| Проект | Описание |
+| -------- | ---------- |
 | [**burmlda-rpg**](https://github.com/fvjy12/burmlda-rpg) | 🎮 **Консольная RPG** на чистом Python: бой на d20 и Фростморн |
 | [**winlocker**](https://github.com/fvjy12/winlocker) | 🔒 **Эффектный винлокер** для демонстрации его работы |
-| [**smart-notes**](https://github.com/fvjy12/smart-notes) | Умные заметки с автоматизацией |
-| [**proxy-switcher**](https://github.com/fvjy12/proxy-switcher) | Переключатель прокси |
-| [**docker-amon**](https://github.com/fvjy12/docker-amon) | Production-ready Docker setup для Python |
 
 
 
